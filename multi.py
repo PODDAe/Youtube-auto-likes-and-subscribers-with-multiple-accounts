@@ -5,7 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 email = 'dontknow@gmail.com\n'    #enter mail
-password = 'putpass@#$1\n'         #enter pass
+password = 'dulina2011@##@#$1\n'         #enter pass
 
 driver = uc.Chrome(use_subprocess=True)
 wait = WebDriverWait(driver, 20)
@@ -33,8 +33,8 @@ time.sleep(2)
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[1]/div/ytd-subscribe-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
 driver.close()
 
-email = 'nonunkown@gmail.com \n'   #enter mail
-password = 'putpass\n'             #enter pass
+email = 'alphaxteam21@gmail.com\n'   #enter mail
+password = 'dulina2011@##\n'             #enter pass
 
 driver = uc.Chrome(use_subprocess=True)
 wait = WebDriverWait(driver, 20)
@@ -60,8 +60,8 @@ time.sleep(2)
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[1]/div/ytd-subscribe-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
 driver.close()
 
-email = 'nonunkown@gmail.com \n'   #enter mail
-password = 'putpass\n'             #enter pass
+email = 'alphaxteam21@gmail.com\n'   #enter mail
+password = 'dulina2011@##\n'             #enter pass
 
 driver = uc.Chrome(use_subprocess=True)
 wait = WebDriverWait(driver, 20)
@@ -87,8 +87,8 @@ time.sleep(2)
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[1]/div/ytd-subscribe-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
 driver.close()
 
-email = 'nonunkown@gmail.com \n'   #enter mail
-password = 'putpass\n'             #enter pass
+email = 'alphaxteam21@gmail.com\n'   #enter mail
+password = 'dulina2011@##\n'             #enter pass
 
 driver = uc.Chrome(use_subprocess=True)
 wait = WebDriverWait(driver, 20)
@@ -114,8 +114,8 @@ time.sleep(2)
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[1]/div/ytd-subscribe-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
 driver.close()
 
-email = 'nonunkown@gmail.com \n'   #enter mail
-password = 'putpass\n'             #enter pass
+email = 'alphaxteam21@gmail.com\n'   #enter mail
+password = 'dulina2011@##\n'             #enter pass
 
 driver = uc.Chrome(use_subprocess=True)
 wait = WebDriverWait(driver, 20)
@@ -141,8 +141,8 @@ time.sleep(2)
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[1]/div/ytd-subscribe-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
 driver.close()
 
-email = 'nonunkown@gmail.com \n'   #enter mail
-password = 'putpass\n'             #enter pass
+email = 'alphaxteam21@gmail.com\n'   #enter mail
+password = 'dulina2011@##\n'             #enter pass
 
 driver = uc.Chrome(use_subprocess=True)
 wait = WebDriverWait(driver, 20)
@@ -168,8 +168,8 @@ time.sleep(2)
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[1]/div/ytd-subscribe-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
 driver.close()
 
-email = 'nonunkown@gmail.com \n'   #enter mail
-password = 'putpass\n'             #enter pass
+email = 'alphaxteam21@gmail.com\n'   #enter mail
+password = 'dulina2011@##\n'             #enter pass
 
 driver = uc.Chrome(use_subprocess=True)
 wait = WebDriverWait(driver, 20)
@@ -195,8 +195,8 @@ time.sleep(2)
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[1]/div/ytd-subscribe-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
 driver.close()
 
-email = 'nonunkown@gmail.com \n'   #enter mail
-password = 'putpass\n'             #enter pass
+email = 'alphaxteam21@gmail.com\n'   #enter mail
+password = 'dulina2011@##\n'             #enter pass
 
 driver = uc.Chrome(use_subprocess=True)
 wait = WebDriverWait(driver, 20)
@@ -222,8 +222,8 @@ time.sleep(2)
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[1]/div/ytd-subscribe-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
 driver.close()
 
-email = 'nonunkown@gmail.com \n'   #enter mail
-password = 'putpass\n'             #enter pass
+email = 'alphaxteam21@gmail.com\n'   #enter mail
+password = 'dulina2011@##\n'             #enter pass
 
 driver = uc.Chrome(use_subprocess=True)
 wait = WebDriverWait(driver, 20)
@@ -248,8 +248,8 @@ time.sleep(2)
 #sub button
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[1]/div/ytd-subscribe-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
 driver.close()
-email = 'nonunkown@gmail.com \n'   #enter mail
-password = 'putpass\n'             #enter pass
+email = 'alphaxteam21@gmail.com\n'   #enter mail
+password = 'dulina2011@##\n'             #enter pass
 
 driver = uc.Chrome(use_subprocess=True)
 wait = WebDriverWait(driver, 20)
@@ -274,4 +274,5 @@ time.sleep(2)
 #sub button
 driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[2]/ytd-watch-metadata/div/div[2]/div[1]/div/ytd-subscribe-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]').click()
 driver.close()
+
 
